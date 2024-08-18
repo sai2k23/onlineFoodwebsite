@@ -1,6 +1,5 @@
 # shoppingsite
-Watch it on youtube now...
-https://www.youtube.com/watch?v=GiWJQOin5dk
+liveServer :
 
 Some screenshots from the project
 
